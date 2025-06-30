@@ -1,8 +1,11 @@
 # Projeto de Análise de Dados - Resultados Históricos do Futebol Internacional
 
 **Autor:** Thomaz Colalillo Navajas
+
 **Professor:** Fabio Gomes Jardim
+
 **Disciplina:** Distributed Data Processing & Storage
+
 **Data:** 30/06/2025
 
 ---
